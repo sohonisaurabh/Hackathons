@@ -14,7 +14,8 @@ The process and answers to your other questions on how to go about uploading you
 We will use Sapient’s Dojo tools – JIRA, Code Commons BitBucket for managing these challenges. If you don’t have access to these tools, raise a request immediately. You can raise the DOJO support request. The project name in this request should be HackME, Choose BitBucket and Code Commons in the drop down boxes. If DOJO team asks whether Internal or External, please mention as Internal.
  
 The challenges that you need to complete are here:
-        * XPerienZ: https://tools.publicis.sapient.com/jira/browse/HKME-7?filter=108224 (in Vox https://vox.publicis.sapient.com/projects/xperienz/blog/2016/10/21/xperienz-week-1-challenge)
+        
+* XPerienZ: https://tools.publicis.sapient.com/jira/browse/HKME-7?filter=108224 (in Vox https://vox.publicis.sapient.com/projects/xperienz/blog/2016/10/21/xperienz-week-1-challenge)
        
 If you have questions on the challenges, ask in Vox directly and the ‘sensei’ will answer ASAP.
  
