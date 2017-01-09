@@ -1,0 +1,1 @@
+﻿﻿This example creates a sample application to render 2D video into stereoscopic 3D for enhanced user experience. For more background on Three.js and rendering principles, please refer guidelines document present with this file.

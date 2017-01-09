@@ -1,0 +1,12 @@
+{
+  "name": "Sterescopic-video-render",
+  "version": "1.0.0",
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "start": "http-server -p 8000 -c-1"
+  },
+  "description": "2D video to Sterescopic video conversion",
+  "author": ""
+}
