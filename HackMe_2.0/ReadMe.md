@@ -6,7 +6,7 @@ HackMe 2.0 was different from a conventional Hackathon. It was not a 24hr or 48 
 
 ## Inspiration:
  
-In the first phase of HackMe 2.0, me and my team mate, Ramya Sudarshan, were asked to research on the history of HCI and share some insights into different HCI methods being used today. Be it smartphones, tablets, computers, television sets, fitness gadgets, etc. we realized that HCI has now become the integral part of most of our daily activities. With recent advancements in Virtual Reality (VR) and Augmented Reality (AR), we were more inclined towards creating a dream like experience with some sort of an application built using VR. We also wanted to use automation or artificial intelligence but were not very sure how to do it.
+In the first phase of HackMe 2.0, me and my team mate, [Ramya Sudarshan](https://github.com/ramyaps94), were asked to research on the history of HCI and share some insights into different HCI methods being used today. Be it smartphones, tablets, computers, television sets, fitness gadgets, etc. we realized that HCI has now become the integral part of most of our daily activities. With recent advancements in Virtual Reality (VR) and Augmented Reality (AR), we were more inclined towards creating a dream like experience with some sort of an application built using VR. We also wanted to use automation or artificial intelligence but were not very sure how to do it.
 I remember sharing this idea with a fellow colleague and we thought over many different ideas in a long meeting. Some of them being:
 
   1. Building a car simulator with scene rendered from an actual car being driven on the street
